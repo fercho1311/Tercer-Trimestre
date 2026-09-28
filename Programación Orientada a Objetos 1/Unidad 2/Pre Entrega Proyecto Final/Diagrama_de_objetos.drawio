@@ -1,0 +1,69 @@
+<mxfile host="app.diagrams.net">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Página-1">
+    <mxGraphModel dx="2527" dy="913" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="um4UOOyUqeo3J54IzbiB-25" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="um4UOOyUqeo3J54IzbiB-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="um4UOOyUqeo3J54IzbiB-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="um4UOOyUqeo3J54IzbiB-0" parent="WIyWlLk6GJQsqaUBKTNV-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;rounded=0;gradientColor=none;" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;estudiante1 : Estudiante&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ nombre = Carlos López&lt;br&gt;+ carnet =&amp;nbsp;20260001&lt;/p&gt;" vertex="1">
+          <mxGeometry height="70" width="190" x="-420" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="um4UOOyUqeo3J54IzbiB-12" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="um4UOOyUqeo3J54IzbiB-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;jumpSize=16;endArrow=diamond;endFill=1;endSize=16;" target="um4UOOyUqeo3J54IzbiB-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="35" y="310" />
+              <mxPoint x="-175" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="um4UOOyUqeo3J54IzbiB-6" parent="WIyWlLk6GJQsqaUBKTNV-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;rounded=0;gradientColor=none;" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;curso1 : Curso&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ cod_curso = PROG101&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px;&quot;&gt;+ nombre = Programación I&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;+ creditos = 4&lt;/span&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="90" width="190" x="-60" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="_Kmk8A_A11EEDPWAltTV-1" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="um4UOOyUqeo3J54IzbiB-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;endArrow=none;endFill=0;startArrow=diamond;startFill=1;startSize=16;" target="_Kmk8A_A11EEDPWAltTV-0">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-175" y="187.49" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="um4UOOyUqeo3J54IzbiB-8" parent="WIyWlLk6GJQsqaUBKTNV-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;rounded=0;gradientColor=none;" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;carrera1 : Carrera&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;+ nombre = Ingeniería en Sistemas&lt;/span&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="60" width="210" x="-280" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="um4UOOyUqeo3J54IzbiB-10" parent="WIyWlLk6GJQsqaUBKTNV-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;rounded=0;gradientColor=none;" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;horario1 : Horario&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ dia = Lunes&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px;&quot;&gt;+ hora_inicio = 08:00&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ hora_fin = 10: 00&lt;/p&gt;" vertex="1">
+          <mxGeometry height="80" width="190" x="350" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="um4UOOyUqeo3J54IzbiB-11" parent="WIyWlLk6GJQsqaUBKTNV-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;rounded=0;gradientColor=none;" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;profesor1 : Profesor&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ nombre = Ana García&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px;&quot;&gt;+ cod_prof = 12451&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ especialidad = Programación&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="80" width="190" x="350" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="um4UOOyUqeo3J54IzbiB-17" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="um4UOOyUqeo3J54IzbiB-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.001;entryY=0.143;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=diamond;endFill=1;startArrow=none;startFill=0;endSize=16;startSize=16;" target="um4UOOyUqeo3J54IzbiB-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="um4UOOyUqeo3J54IzbiB-21" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="um4UOOyUqeo3J54IzbiB-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;endSize=16;" target="um4UOOyUqeo3J54IzbiB-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="250" y="462.97" />
+              <mxPoint x="250" y="462.97" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_Kmk8A_A11EEDPWAltTV-0" parent="WIyWlLk6GJQsqaUBKTNV-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;rounded=0;gradientColor=none;" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;curso2 : Curso&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ cod_curso = MAT101&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px;&quot;&gt;+ nombre = Matemática I&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;+ creditos = 5&lt;/span&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="90" width="190" x="130" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="_Kmk8A_A11EEDPWAltTV-3" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_Kmk8A_A11EEDPWAltTV-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=diamond;endFill=1;endSize=16;" target="_Kmk8A_A11EEDPWAltTV-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_Kmk8A_A11EEDPWAltTV-2" parent="WIyWlLk6GJQsqaUBKTNV-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;rounded=0;gradientColor=none;" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;horario2 : Horario&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ dia = Lunes&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px;&quot;&gt;+ hora_inicio = 09:00&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ hora_fin = 11: 00&lt;/p&gt;" vertex="1">
+          <mxGeometry height="80" width="190" x="500" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_Kmk8A_A11EEDPWAltTV-4" parent="WIyWlLk6GJQsqaUBKTNV-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;rounded=0;gradientColor=none;" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;profesor2 : Profesor&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ nombre = LuisGarcía&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px;&quot;&gt;+ cod_prof = 15511&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ especialidad = Matemática&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="80" width="190" x="500" y="165" as="geometry" />
+        </mxCell>
+        <mxCell id="_Kmk8A_A11EEDPWAltTV-5" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_Kmk8A_A11EEDPWAltTV-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.998;entryY=0.624;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" target="_Kmk8A_A11EEDPWAltTV-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
